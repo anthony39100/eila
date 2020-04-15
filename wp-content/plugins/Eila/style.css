@@ -1,0 +1,16 @@
+.d-flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.align-items{
+    align-items: center;
+}
+.vh-50{
+    height: 50vh;
+}
+.vw-20{
+width: 20vw;
+}
+
